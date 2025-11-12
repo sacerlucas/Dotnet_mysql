@@ -1,0 +1,15 @@
+C:\Users\Alunos\Documents\Dotnet_mysql\Feitep.MySql.Console\bin\Debug\net8.0\Feitep.MySql.Console.exe
+C:\Users\Alunos\Documents\Dotnet_mysql\Feitep.MySql.Console\bin\Debug\net8.0\Feitep.MySql.Console.deps.json
+C:\Users\Alunos\Documents\Dotnet_mysql\Feitep.MySql.Console\bin\Debug\net8.0\Feitep.MySql.Console.runtimeconfig.json
+C:\Users\Alunos\Documents\Dotnet_mysql\Feitep.MySql.Console\bin\Debug\net8.0\Feitep.MySql.Console.dll
+C:\Users\Alunos\Documents\Dotnet_mysql\Feitep.MySql.Console\bin\Debug\net8.0\Feitep.MySql.Console.pdb
+C:\Users\Alunos\Documents\Dotnet_mysql\Feitep.MySql.Console\obj\Debug\net8.0\Feitep.MySql.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Documents\Dotnet_mysql\Feitep.MySql.Console\obj\Debug\net8.0\Feitep.MySql.Console.AssemblyInfoInputs.cache
+C:\Users\Alunos\Documents\Dotnet_mysql\Feitep.MySql.Console\obj\Debug\net8.0\Feitep.MySql.Console.AssemblyInfo.cs
+C:\Users\Alunos\Documents\Dotnet_mysql\Feitep.MySql.Console\obj\Debug\net8.0\Feitep.MySql.Console.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Documents\Dotnet_mysql\Feitep.MySql.Console\obj\Debug\net8.0\Feitep.MySql.Console.sourcelink.json
+C:\Users\Alunos\Documents\Dotnet_mysql\Feitep.MySql.Console\obj\Debug\net8.0\Feitep.MySql.Console.dll
+C:\Users\Alunos\Documents\Dotnet_mysql\Feitep.MySql.Console\obj\Debug\net8.0\refint\Feitep.MySql.Console.dll
+C:\Users\Alunos\Documents\Dotnet_mysql\Feitep.MySql.Console\obj\Debug\net8.0\Feitep.MySql.Console.pdb
+C:\Users\Alunos\Documents\Dotnet_mysql\Feitep.MySql.Console\obj\Debug\net8.0\Feitep.MySql.Console.genruntimeconfig.cache
+C:\Users\Alunos\Documents\Dotnet_mysql\Feitep.MySql.Console\obj\Debug\net8.0\ref\Feitep.MySql.Console.dll
