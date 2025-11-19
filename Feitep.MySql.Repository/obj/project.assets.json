@@ -2294,6 +2294,7 @@
       "Microsoft.EntityFrameworkCore >= 8.0.15",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.15",
       "Microsoft.EntityFrameworkCore.Proxies >= 8.0.15",
+      "Microsoft.EntityFrameworkCore.Relational >= 8.0.15",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.15",
       "Pomelo.EntityFrameworkCore.MySql >= 8.0.3"
     ]
@@ -2304,11 +2305,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Alunos\\Documents\\Dotnet_mysql\\Feitep.MySql.Repository\\Feitep.MySql.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\Alunos\\Documents\\Dotnet_mysql\\Feitep.MySql.Repository\\Feitep.MySql.Repository.csproj",
       "projectName": "Feitep.MySql.Repository",
-      "projectPath": "c:\\Users\\Alunos\\Documents\\Dotnet_mysql\\Feitep.MySql.Repository\\Feitep.MySql.Repository.csproj",
+      "projectPath": "C:\\Users\\Alunos\\Documents\\Dotnet_mysql\\Feitep.MySql.Repository\\Feitep.MySql.Repository.csproj",
       "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Alunos\\Documents\\Dotnet_mysql\\Feitep.MySql.Repository\\obj\\",
+      "outputPath": "C:\\Users\\Alunos\\Documents\\Dotnet_mysql\\Feitep.MySql.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -2350,6 +2351,10 @@
             "version": "[8.0.15, )"
           },
           "Microsoft.EntityFrameworkCore.Proxies": {
+            "target": "Package",
+            "version": "[8.0.15, )"
+          },
+          "Microsoft.EntityFrameworkCore.Relational": {
             "target": "Package",
             "version": "[8.0.15, )"
           },

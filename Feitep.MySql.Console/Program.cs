@@ -1,2 +1,15 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Feitep.MySql.Models;
+using Feitep.MySql.Repository;
+
+var factory = new SistemaContextFactory();
+var context = factory.CreateDbContext();
+
+var clientes = context.Clientes!.ToList();
+
+clientes.ForEach( cliente =>
+{
+    System.Console.WriteLine($"{cliente.Id} - {cliente.Nome} - {cliente.DataNascimento}");
+});
+
+
+Console.ReadKey();
